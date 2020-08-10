@@ -1,0 +1,1 @@
+docker run -d --name=grafana-xxl -p 3000:3000 monitoringartist/grafana-xxl:latest
